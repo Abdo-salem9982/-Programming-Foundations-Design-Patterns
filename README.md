@@ -22,4 +22,4 @@ Design patterns are reusable solutions that solve the challenges software develo
 
 ### Certificate [Link](https://www.linkedin.com/learning/certificates/138ebe2205eafff6cbac997ce41da5c3cf4a0577a3eea356ffae6d95646aca9c?trk=share_certificate)
 
-### For More Notes:- [Notion](https://www.notion.so/6-Programming-Foundations-Design-Patterns-1h-44m-1b80152a67dd42be908db2013815a9d4)
+### For More Notes:- [Notion](https://tranquil-popcorn-52a.notion.site/06-Programming-Foundations-Design-Patterns-f673dda223c04e739f33954629470690)
